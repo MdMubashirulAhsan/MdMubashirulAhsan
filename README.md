@@ -6,7 +6,16 @@
 
 
 # 💫 About Me:
-Welcome to my page!<br>I'm Md. Mubashirul Ahsan, a web developer from  Sylhet, Bangladesh.
+I am a passionate **Full Stack Web Developer** specializing in building scalable and efficient web applications.  
+With hands-on experience in **JavaScript, React, Express, MongoDB, and Firebase**, I develop modern, user-friendly, and secure applications from frontend to backend.
+
+I have created various projects that showcase my ability to build full-stack applications, including:
+
+- **Event Explorer** – A React & Firebase powered app for discover local events.
+- **Plant Tracking Care** – RESTful API with Express and MongoDB for plants health tracking.
+- **Trade Nexus** – Full-stack web app integrating React frontend and Node/Express backend for b2b marketing
+
+I am always eager to learn new technologies and contribute to exciting projects!
 
 
 ## 🌐 Socials:
